@@ -26,11 +26,6 @@
 ![Leilane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leilanehirt&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leilanehirt&layout=compact)
 
-### ✉️ **Get in touch** | ✉️ _Entre em contato_ 
-
-🙋‍♀️ **Feel free to explore my repositories and reach out if you have any questions or ideas for collaboration. Let’s build something awesome together!** 😊   
-🙋‍♀️ _Sinta-se à vontade para explorar meus repositórios e me chamar se tiver dúvidas ou ideias de colaboração. Vamos construir algo incrível juntos!_ 😊
-
-**My LinkedIn** | _Meu Linkedin_ :  
+##### My LinkedIn | _Meu Linkedin_ : 
 [![LinkedIn](https://img.shields.io/badge/-Leilane_Hirt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leilanehirt)](https://www.linkedin.com/in/leilanehirt)
 
