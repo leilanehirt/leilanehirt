@@ -26,6 +26,5 @@
 ![Leilane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leilanehirt&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leilanehirt&layout=compact)
 
-##### My LinkedIn | _Meu Linkedin_ : 
 [![LinkedIn](https://img.shields.io/badge/-Leilane_Hirt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leilanehirt)](https://www.linkedin.com/in/leilanehirt)
 
