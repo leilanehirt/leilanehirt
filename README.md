@@ -21,9 +21,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)
 
-### 🚀 **Status** 📈
+<!-- ### 🚀 **Status** 📈 -->
 
-![Leilane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leilanehirt&show_icons=true)
+<!-- ![Leilane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leilanehirt&show_icons=true) -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leilanehirt&layout=compact)
 
 [![LinkedIn](https://img.shields.io/badge/-Leilane_Hirt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leilanehirt)](https://www.linkedin.com/in/leilanehirt)
