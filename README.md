@@ -28,3 +28,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/-Leilane_Hirt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leilanehirt)](https://www.linkedin.com/in/leilanehirt)
 
+### Badgets:
+[Click here](https://www.credly.com/users/leilane-catherine-john-hirt)
+
