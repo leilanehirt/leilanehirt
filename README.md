@@ -14,20 +14,22 @@
 
 ### 🤓 __I'm already proficient in:__   |   🤓 _Possuo conhecimentos em:_
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-D95E32?logo=database&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
+![SQL](https://img.shields.io/badge/-SQL-D95E32?logo=database&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=for-the-badge)
 
 <!-- ### 🚀 **Status** 📈 -->
 
 <!-- ![Leilane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leilanehirt&show_icons=true) -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leilanehirt&layout=compact)
 
-[![LinkedIn](https://img.shields.io/badge/-Leilane_Hirt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leilanehirt)](https://www.linkedin.com/in/leilanehirt)
+🔗 __My LinkedIn: | _Meu LinkedIn:___
 
-### Badgets:
-[Click here](https://www.credly.com/users/leilane-catherine-john-hirt)
+[![LinkedIn](https://img.shields.io/badge/Leilane%20Hirt-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leilanehirt)
 
+👀 __Check my badges by clicking here: | _Confira meus badges clicando aqui_:__
+
+[![Cisco Badges](https://img.shields.io/badge/Cisco%20Badges-blue?logo=cisco&logoColor=white&style=for-the-badge)](https://www.credly.com/users/leilane-catherine-john-hirt)
