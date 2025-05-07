@@ -26,10 +26,10 @@
 <!-- ![Leilane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leilanehirt&show_icons=true) -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leilanehirt&layout=compact)
 
-🔗 __My LinkedIn: | _Meu LinkedIn:___
+🔗 __My LinkedIn: | 🔗 _Meu LinkedIn:___
 
 [![LinkedIn](https://img.shields.io/badge/Leilane%20Hirt-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leilanehirt)
 
-👀 __Check my badges by clicking here: | _Confira meus badges clicando aqui_:__
+👀 __Check my badges by clicking here: | 👀 _Confira meus badges clicando aqui_:__
 
 [![Cisco Badges](https://img.shields.io/badge/Cisco%20Badges-blue?logo=cisco&logoColor=white&style=for-the-badge)](https://www.credly.com/users/leilane-catherine-john-hirt)
